@@ -1,0 +1,14 @@
+========== PORTFOLIO SUMMARY ==========
+
+Stock Name   : APPLES
+Stock Price  : $180
+Quantity     : 6
+Investment   : $1080
+-----------------------------------
+Stock Name   : GUAVA
+Stock Price  : $330
+Quantity     : 3
+Investment   : $990
+-----------------------------------
+
+Total Investment Value: $2070
